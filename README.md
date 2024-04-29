@@ -6,7 +6,7 @@ Navegue por uma ampla gama de ferramentas e recursos destinados a aprimorar suas
 
 ## Sobre
 
-Este repositório foi criado por [Rick](link_para_perfil_do_Rick), dono da [CyberStorm](link_para_servidor_discord), com o objetivo de compartilhar recursos e ferramentas úteis para OSINT. Sinta-se à vontade para contribuir!
+Este repositório foi criado por [Rick](link_para_perfil_do_Rick), dono da [CyberStorm](https://discord.gg/CyberStorm), com o objetivo de compartilhar recursos e ferramentas úteis para OSINT. Sinta-se à vontade para contribuir!
 
 # Recursos de OSINT
 
@@ -104,7 +104,11 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 84. **🔍 [TRiD](https://mark0.net/soft-trid-e.html)**
 85. **🔍 [AIL framework](https://github.com/CIRCL/AIL-framework)**
 
+
+
 86. **🌐 SITES**
+
+
 
 1. **🌐 [BuiltWith](https://builtwith.com/)**
 2. **🌐 [Whois Lookup](https://whois.domaintools.com/)**
@@ -207,7 +211,10 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 99. **🌐 [Kali Linux](https://www.kali.org/)**
 100. **🌐 [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)**
 
+
+
 101. ** 🗂️ ARQUIVOS**
+
 
 
 1. **🗂️ [Maltego](https://www.paterva.com/)**
@@ -311,4 +318,81 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 99. **🗂️ [Steganos](https://www.steganos.com/)**
 100. **🗂️ [SilentEye](https://github.com/kmxz/silenteye)**
 
-101. 
+
+**📸 BUSCADOR DE FOTOGRAFIAS **
+
+
+1. **📸 [Google Imagens](https://www.google.com/imghp)**
+2. **📸 [TinEye](https://tineye.com/)**
+3. **📸 [Yandex.Imagens](https://yandex.com/images/)**
+4. **📸 [Bing Imagens](https://www.bing.com/images)**
+5. **📸 [PicTriev](http://www.pictriev.com/)**
+6. **📸 [IQDB](https://iqdb.org/)**
+7. **📸 [Image Identify](https://imagga.com/solutions/image-identify)**
+8. **📸 [Image Raider](https://www.imageraider.com/)**
+9. **📸 [PimEyes](https://www.pimeyes.com/)**
+10. **📸 [RevEye](http://www.reverse-image-search.com/)**
+11. **📸 [Veracity](http://veracityapi.com/)**
+12. **📸 [VinImage](https://vinimage.com/)**
+13. **📸 [ImageIdentify](https://www.imageidentify.com/)**
+14. **📸 [GazoPa](http://www.gazopa.com/)**
+15. **📸 [OSINT Combine](https://github.com/InQuest/osintcombine)**
+16. **📸 [Sherlock](https://github.com/sherlock-project/sherlock)**
+17. **📸 [X-Ray](https://github.com/evilsocket/xray)**
+18. **📸 [Metagoofil](https://github.com/laramies/metagoofil)**
+19. **📸 [Spokeo](https://www.spokeo.com/)**
+20. **📸 [PeekYou](https://www.peekyou.com/)**
+
+
+
+** 🛰️ SATÉLITES **
+
+
+1. **🛰️ [Google Earth](https://www.google.com/earth/)**
+2. **🛰️ [NASA Worldview](https://worldview.earthdata.nasa.gov/)**
+3. **🛰️ [Sentinel Hub](https://www.sentinel-hub.com/explore/eobrowser/)**
+4. **🛰️ [Zoom Earth](https://zoom.earth/)**
+5. **🛰️ [Planet Explorer](https://www.planet.com/explorer/)**
+6. **🛰️ [DigitalGlobe](https://www.maxar.com/products/geospatial)**
+7. **🛰️ [EarthExplorer](https://earthexplorer.usgs.gov/)**
+8. **🛰️ [ESA's Sentinel Online](https://sentinel.esa.int/)**
+9. **🛰️ [Nearmap](https://www.nearmap.com/)**
+10. **🛰️ [Terraserver](https://www.terraserver.com/)**
+11. **🛰️ [Mapbox Satellite](https://www.mapbox.com/satellite/)**
+12. **🛰️ [INPE - Image Catalog](http://www.dgi.inpe.br/catalogo/)**
+13. **🛰️ [Bing Maps](https://www.bing.com/maps/)**
+14. **🛰️ [OpenStreetMap](https://www.openstreetmap.org/)**
+15. **🛰️ [Here Maps](https://www.here.com/)**
+16. **🛰️ [Digital Elevation Model (DEM)](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map)**
+17. **🛰️ [Yandex.Maps](https://yandex.com/maps/)**
+18. **🛰️ [Mapillary](https://www.mapillary.com/)**
+19. **🛰️ [MapQuest](https://www.mapquest.com/)**
+20. **🛰️ [CARTO](https://carto.com/)**
+21. **🛰️ [Google Maps](https://www.google.com/maps/)**
+
+
+** 🕵🏻‍♂️ METADADOS **
+
+
+1. **🕵🏻‍♂️ [ExifPurge](https://exifpurge.com/)**
+2. **🕵🏻‍♂️ [MediaInfo](https://mediaarea.net/en/MediaInfo)**
+3. **🕵🏻‍♂️ [FotoForensics](http://fotoforensics.com/)**
+4. **🕵🏻‍♂️ [ExifTool](https://exiftool.org/)**
+5. **🕵🏻‍♂️ [VidAnalysis](https://www.vidanalysis.com/)**
+6. **🕵🏻‍♂️ [Forensically](https://forensically.com/)**
+7. **🕵🏻‍♂️ [YouTube DataViewer](https://dataviewer.xyz/)**
+8. **🕵🏻‍♂️ [Ghiro](https://www.getghiro.org/)**
+9. **🕵🏻‍♂️ [Metadata Extraction Tool](https://kitware.github.io/metadata-extraction-tool/)**
+10. **🕵🏻‍♂️ [Image Metadata Scraper](https://www.image-metadata.com/)**
+11. **🕵🏻‍♂️ [Google Reverse Image Search](https://www.google.com/imghp)**
+12. **🕵🏻‍♂️ [Tineye](https://tineye.com/)**
+13. **🕵🏻‍♂️ [Bing Image Search](https://www.bing.com/images)**
+14. **🕵🏻‍♂️ [InstaLooter](https://github.com/althonos/InstaLooter)**
+15. **🕵🏻‍♂️ [YouTube-dl](https://youtube-dl.org/)**
+16. **🕵🏻‍♂️ [Amped FIVE](https://ampedsoftware.com/five/)**
+17. **🕵🏻‍♂️ [YouTube EXIF Parser](https://exif.yt/)**
+18. **🕵🏻‍♂️ [VideoObjectTracker](https://github.com/yizheitt/VideoObjectTracker)**
+19. **🕵🏻‍♂️ [FAW - Forensic Artifacts on The Web](https://www.faradaysec.com/research/faw/)**
+20. **🕵🏻‍♂️ [FFMpeg](https://ffmpeg.org/)**
+
+21. # FIM.
