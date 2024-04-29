@@ -16,7 +16,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 ### Frameworks e Ferramentas Gerais
 
-**🔍 DIVERSAS**
+## 🔍 DIVERSAS
 
 1. **🔍 [OSINT Framework](https://osintframework.com/)** 
 2. **🔍 [IntelTechniques](https://inteltechniques.com/)**
@@ -106,7 +106,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 
 
-86. **🌐 SITES**
+86. ## 🌐 SITES
 
 
 
@@ -213,7 +213,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 
 
-101. **🗂️ ARQUIVOS**
+101. ## 🗂️ ARQUIVOS
 
 
 
@@ -319,7 +319,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 100. **🗂️ [SilentEye](https://github.com/kmxz/silenteye)**
 
 
-**📸 BUSCADOR DE FOTOGRAFIAS**
+## 📸 BUSCADOR DE FOTOGRAFIAS
 
 
 1. **📸 [Google Imagens](https://www.google.com/imghp)**
@@ -345,7 +345,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 
 
-**🛰️ SATÉLITES**
+## 🛰️ SATÉLITES
 
 
 1. **🛰️ [Google Earth](https://www.google.com/earth/)**
@@ -371,7 +371,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 21. **🛰️ [Google Maps](https://www.google.com/maps/)**
 
 
-**🕵🏻‍♂️ METADADOS**
+## 🕵🏻‍♂️ METADADOS
 
 
 1. **🕵🏻‍♂️ [ExifPurge](https://exifpurge.com/)**
