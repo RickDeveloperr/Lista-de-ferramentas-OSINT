@@ -20,6 +20,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 ## 🔍 DIVERSAS
 
+![ 🔍 DIVERSAS](https://cdn.discordapp.com/attachments/1231505527108927508/1234383410890407946/Cloud-OSINT-3440287165.png?ex=663088a2&is=662f3722&hm=e01a6184eee09ee45ff1482330d336ebfad079d2c6df1913218114998c294d47&)
 
 
 1. **🔍 [OSINT Framework](https://osintframework.com/)** 
