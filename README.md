@@ -113,7 +113,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 
 
-86. ## 🌐 SITES
+86. ![🌐 SITES](https://cdn.discordapp.com/attachments/1231505527108927508/1234384162887041074/OSINT-techniques-2420634555.jpg?ex=66308956&is=662f37d6&hm=77fd78aed67299cf270910b0cbdd9a9efeac4b5be50b589646e792ad8c20d94a&)
 
 
 
@@ -224,7 +224,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 
 
-101. ## 🗂️ ARQUIVOS
+101.![🗂️ ARQUIVOS](https://cdn.discordapp.com/attachments/1231505527108927508/1234384875763793920/organizacao-de-documentos-digitais-3985520069.jpg?ex=66308a00&is=662f3880&hm=e31093604163988620d2548a1473f8869939ce2c124e0923ad96244445de6f44&)
 
 
 
@@ -334,7 +334,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 
 
-## 📸 BUSCADOR DE FOTOGRAFIAS
+![📸 BUSCADOR DE FOTOGRAFIAS](https://cdn.discordapp.com/attachments/1231505527108927508/1234385191938818068/Buscador-1141579139.jpg?ex=66308a4b&is=662f38cb&hm=e66df79563f29373cb43b487db7628c1760b1e83192d762adb6020331ba46d0b&)
 
 
 
@@ -363,8 +363,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 
 
-
-## 🛰️ SATÉLITES
+![🛰️ SATÉLITES](https://cdn.discordapp.com/attachments/1231505527108927508/1234385456494284820/1920x1080-336042027.jpg?ex=66308a8a&is=662f390a&hm=9b7620f2fb42c1ebbbe490957c1c4d4499703cc9416bdb64104b34c5bdbab549&)
 
 
 
@@ -393,8 +392,7 @@ Descubra e investigue essas ferramentas incríveis para inteligência de código
 
 
 
-
-## 🕵🏻‍♂️ METADADOS
+![🕵🏻‍♂️ METADADOS](https://cdn.discordapp.com/attachments/1231505527108927508/1234385853753856010/AAMAAgDGAAoAAQAAAAAAAAzkAAAAJDE5OTk5MzdjLTgyZGYtNGYyOS1iZDE0LWZiZmQwYzg2MWQwMw-2694645752.jpg?ex=66308ae9&is=662f3969&hm=abe8f76b9a501e8deb3b0ffa7706db97e3f54dfb2dcb803c8043f6d2a422ff07&)
 
 
 
